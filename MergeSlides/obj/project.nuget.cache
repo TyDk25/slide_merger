@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qr+VZLlFE1g=",
+  "success": true,
+  "projectFilePath": "/Users/tyrone/RiderProjects/MergeSlides/MergeSlides/MergeSlides.csproj",
+  "expectedPackageFiles": [
+    "/Users/tyrone/.nuget/packages/aspose.slides.net/25.2.0/aspose.slides.net.25.2.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/documentformat.openxml/3.2.0/documentformat.openxml.3.2.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/documentformat.openxml.framework/3.2.0/documentformat.openxml.framework.3.2.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/documentformat.openxml.linq/3.2.0/documentformat.openxml.linq.3.2.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/magick.net-q16-anycpu/14.4.0/magick.net-q16-anycpu.14.4.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/magick.net.core/14.4.0/magick.net.core.14.4.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/magick.net.systemdrawing/8.0.4/magick.net.systemdrawing.8.0.4.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/shapecrawler/0.64.1/shapecrawler.0.64.1.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/skiasharp/3.116.1/skiasharp.3.116.1.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/skiasharp.nativeassets.linux/3.116.1/skiasharp.nativeassets.linux.3.116.1.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/skiasharp.nativeassets.macos/3.116.1/skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/skiasharp.nativeassets.win32/3.116.1/skiasharp.nativeassets.win32.3.116.1.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/system.drawing.common/8.0.11/system.drawing.common.8.0.11.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/system.io.packaging/8.0.1/system.io.packaging.8.0.1.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/system.resources.extensions/5.0.0/system.resources.extensions.5.0.0.nupkg.sha512",
+    "/Users/tyrone/.nuget/packages/system.text.json/9.0.0/system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
