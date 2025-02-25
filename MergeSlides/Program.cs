@@ -1,4 +1,3 @@
-﻿// Import necessary namespaces
 using ShapeCrawler;
 
 class Program
